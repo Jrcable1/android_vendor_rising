@@ -12,7 +12,8 @@ PRODUCT_PACKAGES += \
     OmniStyle \
     OmniJaws \
     Updater \
-    GameSpace
+    GameSpace \
+    Seedvault
 
 ifneq ($(WITH_GMS),true)
 PRODUCT_PACKAGES += \
